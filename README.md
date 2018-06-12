@@ -3,8 +3,8 @@
 ## Long term goals
 
 * Get familiarized with Galapagos and the cloud infrastructure at Bose.  
-* Milestone 1: Get spark up and running on Galapagos and do some benchmarks (benchmarks tests to be identified)
-* Milestone 2: Port summarization engine written in map reduce to scala and spark. 
+* Milestone 1: Set up spark on Galapagos and do some benchmarks (benchmarks tests to be identified)
+* Milestone 2: Migrate summarization engine written in map reduce to scala and spark. 
 
 
 ## Results accomplished
