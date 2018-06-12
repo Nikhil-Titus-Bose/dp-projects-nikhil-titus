@@ -7,7 +7,7 @@
 * Milestone 2: Migrate summarization engine written in map reduce to scala and spark. 
 
 
-## Results accomplished
+## Tasks completed
 
 * Nifi flow to pull data from Kafka and validate the messages using the validation SDK. Nifi flow was created without installing any dependencies on the cluster. 
 
