@@ -12,7 +12,7 @@
 
 * Nifi flow to pull data from Kafka and validate the messages using the validation SDK. Nifi flow was created without installing any dependencies on the cluster. 
 * CASTLE-15740: Deployed an elastic search and Kibana cluster using the service brokers available in Galapagos. Also created the nifi flow and introduced a naming convetion for indices which fixed the issue of messages getting rejected in previous nifi flows. 
-* CASTLE-13334: Validated UDC messages with the SDK created. 
+* CASTLE-13334: Validated UDC messages with the SDK created and triggered and tested some events manually. 
 
 ## Work log
 
